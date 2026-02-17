@@ -90,6 +90,13 @@ Returns a new object with all diffs applied. Does not mutate the original.
 - [ts-nano-event](https://github.com/ofershap/ts-nano-event) — Typed event emitter in <200 bytes
 - [hover-effects](https://github.com/ofershap/hover-effects) — Canvas-based hover effects for images
 
+## Author
+
+**Ofer Shapira**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ofershap)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/ofershap)
+
 ## License
 
 MIT
