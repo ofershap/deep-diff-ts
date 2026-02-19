@@ -1,13 +1,13 @@
-# deep-diff-ts
+# deep-diff-ts — Fast Deep Object Diff for TypeScript
 
 [![npm version](https://img.shields.io/npm/v/deep-diff-ts)](https://www.npmjs.com/package/deep-diff-ts)
 [![npm downloads](https://img.shields.io/npm/dm/deep-diff-ts)](https://www.npmjs.com/package/deep-diff-ts)
 [![license](https://img.shields.io/npm/l/deep-diff-ts)](https://github.com/ofershap/deep-diff-ts/blob/main/LICENSE)
 [![CI](https://github.com/ofershap/deep-diff-ts/actions/workflows/ci.yml/badge.svg)](https://github.com/ofershap/deep-diff-ts/actions/workflows/ci.yml)
 
-Fast deep object diff with full TypeScript types. Zero dependencies. ~1.4KB.
+Fast deep object diff and patch with full TypeScript types. Compare nested objects, arrays, dates, and regexps. Zero dependencies, ~1.4KB.
 
-![Demo](assets/demo.gif)
+![deep-diff-ts demo — comparing two objects and showing CREATE, UPDATE, DELETE changes](assets/demo.gif)
 
 ## Install
 
